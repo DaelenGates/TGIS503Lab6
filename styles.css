@@ -1,0 +1,16 @@
+body {
+   padding: 0;
+   margin: 0;
+   font-family: Calibri, sans-serif;
+}
+/* this style was added to make the notification of the clickable map more vissable */
+div {
+  font-size: 1.1em;
+
+}
+
+#map {
+   /* position: absolute; */
+   width: auto;
+   height: 98vh;
+}
